@@ -14,4 +14,4 @@ This tool uses YouTube API Services. By using it, you agree to be bound by the [
 No data is sold, shared, or disclosed to third parties.
 
 ## Deletion and revocation
-Access can be revoked at any time at https://myaccount.google.com/permissions. The owner can delete the locally stored token file at any time, which removes all stored YouTube authorization. Contact your-email@example.com with any request.
+Access can be revoked at any time at https://myaccount.google.com/permissions. The owner can delete the locally stored token file at any time, which removes all stored YouTube authorization. Contact tsmangocatt@gmail.com with any request.

@@ -9,6 +9,8 @@ This tool uses YouTube API Services. By using it, you agree to be bound by the [
 - From YouTube/Google: only permission to upload videos to the owner's own channel (youtube.upload scope). The tool does not read other users' data, channel analytics, or subscriptions.
 - The OAuth token is stored only on the owner's computer.
 - From Twitch: public chat activity is counted to detect spikes. The tool stores timestamps and counts, not chat message content or usernames.
+- From Twitch: a Twitch OAuth token (clips:edit scope) is stored only on the owner's computer. The tool uses it to create clips from public live streams, and stores clip IDs, channel names, and local video files on the owner's computer.
+- Clip video files are kept locally until the owner deletes them.
 
 ## Sharing
 No data is sold, shared, or disclosed to third parties.
